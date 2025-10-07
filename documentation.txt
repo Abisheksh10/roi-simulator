@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+1.Purpose
+
+The Invoicing ROI Simulator is a lightweight web application designed to help users visualize cost savings, ROI, and payback period when switching from manual to automated invoicing.
+It allows users to input key business parameters, run quick simulations, save scenarios, and download gated reports after entering an email address.
+
+The project demonstrates the tangible benefits of automation through favorable ROI logic while maintaining simplicity and interactivity.
+
+2.Project scope
+Interactive single-page web app.
+CRUD support for scenarios (create, load, delete).
+REST API for simulation and scenario management.
+Full-stack MERN deployment.
+
+3.Tech Stacks
+
+frontend: react,css
+backend: node js, express
+database: mongodb
+deployment: vercel and render
+
+4.Features
+runs roi simulation and return json results.
+saves a new scenario
+retrieves all saved scenarios
+retrieve single scenario
+=======
+1.Purpose
+
+The Invoicing ROI Simulator is a lightweight web application designed to help users visualize cost savings, ROI, and payback period when switching from manual to automated invoicing.
+It allows users to input key business parameters, run quick simulations, save scenarios, and download gated reports after entering an email address.
+
+The project demonstrates the tangible benefits of automation through favorable ROI logic while maintaining simplicity and interactivity.
+
+2.Project scope
+Interactive single-page web app.
+CRUD support for scenarios (create, load, delete).
+REST API for simulation and scenario management.
+Full-stack MERN deployment.
+
+3.Tech Stacks
+
+frontend: react,css
+backend: node js, express
+database: mongodb
+deployment: vercel and render
+
+4.Features
+runs roi simulation and return json results.
+saves a new scenario
+retrieves all saved scenarios
+retrieve single scenario
+>>>>>>> 4735f59a1766594fb899506439fed47a644b20b5
